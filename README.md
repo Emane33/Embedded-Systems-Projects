@@ -9,7 +9,8 @@ Welcome to my repository of hands-on embedded systems projects. This portfolio s
 | # | Project Name | Description | Key Skills Demonstrated |
 | :-- | :--- | :--- | :--- |
 | 01 | [Morse Code Interpreter](./01_Morse-Code-Interpreter) | An Arduino sketch that translates Serial input into Morse code on an LED. | Serial I/O, Arduino Framework, Timing, Functions |
-| 02 | *[Next Project Name](./02_Project-Name)* | *[One-line description]* | *[Skills]* |
+| 02 | [Bare-Metal I2C DS3231 Reader](./02_Bare-Metal-I2C) | Reads time & temperature from an RTC using raw I2C commands by directly manipulating its registers. | I2C Protocol, Datasheet Analysis, Register Manipulation, BCD Conversion |
+| 03 | *[Next Project Name](./03_Project-Name)* | *[One-line description]* | *[Skills]* |
 
 ## 🛠️ Technologies Used
 
