@@ -57,12 +57,9 @@ The raw data from the RTC is in **Binary-Coded Decimal (BCD)** format. The code 
 
 ## 📊 Sample Output
 
-```
-<img width="682" height="221" alt="image" src="https://github.com/user-attachments/assets/c97b3950-d009-40c1-a730-0ab5db5c9dfd" />
 
-```
+<img width="682" height="221" alt="Screenshot 2025-08-22 213002" src="https://github.com/user-attachments/assets/65e882a9-fa60-4782-ad25-89006e3dc99d" />
 
-*The "Raw" value shows the byte's decimal value, while the converted value shows the actual time digit.*
 
 ## 🔧 Code Highlights
 
