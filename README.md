@@ -10,7 +10,8 @@ Welcome to my repository of hands-on embedded systems projects. This portfolio s
 | :-- | :--- | :--- | :--- |
 | 01 | [Morse Code Interpreter](./01_Morse-Code-Interpreter) | An Arduino sketch that translates Serial input into Morse code on an LED. | Serial I/O, Arduino Framework, Timing, Functions |
 | 02 | [Bare-Metal I2C DS3231 Reader](./02_Bare-Metal-I2C) | Reads time & temperature from an RTC using raw I2C commands by directly manipulating its registers. | I2C Protocol, Datasheet Analysis, Register Manipulation, BCD Conversion |
-| 03 | *[Next Project Name](./03_Project-Name)* | *[One-line description]* | *[Skills]* |
+| 03 | [Custom Stepper Motor Library](./03_Stepper_Motor_Library) | A professional-grade PlatformIO library for precise control of 28BYJ-48 stepper motors, published to the official registry. | Library Development, OOP, Packaging, Publishing, Documentation |
+| 04 | *[Next Project Name](./04_Project-Name)* | *[One-line description]* | *[Skills]* |
 
 ## 🛠️ Technologies Used
 
