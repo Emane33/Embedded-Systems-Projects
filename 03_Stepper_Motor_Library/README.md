@@ -49,9 +49,9 @@ The library is available on the PlatformIO registry. To use it in a project, run
 pio pkg install --library "emane33/CustomStepper"
 ```
 
-See the [library's own README](./lib/CustomStepper/README.md) for detailed usage instructions and examples.
+See the [library's own README][(./lib/CustomStepper/README.md)]for detailed usage instructions and examples.
 
 ## 🔗 Links
 
 - [PlatformIO Registry Listing](https://registry.platformio.org/libraries/emane33/CustomStepper)
-- [GitHub Repository](https://github.com/Emane33/CustomStepper)
+- [GitHub Repository][(https://github.com/Emane33/CustomStepper)]
