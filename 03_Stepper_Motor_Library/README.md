@@ -2,6 +2,10 @@
 
 This project encapsulates the development of a from-scratch, professional-grade Arduino/PlatformIO library for controlling 28BYJ-48 stepper motors with ULN2003 driver boards. The library has been published to the PlatformIO registry for public use.
 
+
+![IMG_4645](https://github.com/user-attachments/assets/b2a63bd5-b607-42bd-b590-c11739986691)
+
+
 ## 🚀 Project Overview
 
 The goal was to move beyond writing simple sketches and create a reusable, well-documented software component that demonstrates industry-standard practices in embedded software development.
